@@ -1,6 +1,6 @@
 # sa_courses_ms
 
-Microservice for Courses
+Microservice for Courses.
 
 * Ruby
 * Ruby on Rails
